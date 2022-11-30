@@ -1,0 +1,33 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "title": "HTML",
+            "persen": 90
+        },
+        {
+            
+            "id": 2,
+            "title": "CSS",
+            "persen": 60
+        },
+        {
+            
+            "id": 3,
+            "title": "JavaScript",
+            "persen": 50
+        },
+        {
+            
+            "id": 4,
+            "title": "PHP",
+            "persen": 30
+        },
+        {
+            
+            "id": 5,
+            "title": "MySQL",
+            "persen": 70
+        }
+    ]
+}
